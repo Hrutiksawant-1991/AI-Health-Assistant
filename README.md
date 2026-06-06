@@ -33,8 +33,13 @@ https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.b
 ## Screenshots
 
 ### Welcome Screen
-
 ![Welcome Screen](screenshots/welcome-screen.jpg.png)
+
+### Symptom Assessment
+![Symptom Assessment](screenshots/symptom-assessment.png)
+
+### Health Advice
+![Health Advice](screenshots/health-advice.png)
 
 ## Disclaimer
 This chatbot provides educational information only and is not a substitute for professional medical advice.
