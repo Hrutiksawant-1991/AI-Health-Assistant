@@ -30,5 +30,11 @@ AI Health Assistant is a healthcare chatbot built using Botpress Cloud. The chat
 HealthWise Assistant:
 https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/06/04/20260606042858-LUGZHEP2.json
 
+## Screenshots
+
+### Welcome Screen
+
+![Welcome Screen](screenshots/welcome-screen.jpg.png)
+
 ## Disclaimer
 This chatbot provides educational information only and is not a substitute for professional medical advice.
